@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/QuestionGen/static/css/main.10c18e87.css",
+    "main.js": "/QuestionGen/static/js/main.d8124897.js",
+    "static/media/video.mp4": "/QuestionGen/static/media/video.516acb531ccb1c853d9f.mp4",
+    "static/media/jost.ttf": "/QuestionGen/static/media/jost.4bb3ef274c32dacc8bfe.ttf",
+    "static/media/logo.png": "/QuestionGen/static/media/logo.4c34954d9946f6677033.png",
+    "static/media/Logo-Icon-600x600.png": "/QuestionGen/static/media/Logo-Icon-600x600.e86865fbfe8b66d0440f.png",
+    "index.html": "/QuestionGen/index.html",
+    "main.10c18e87.css.map": "/QuestionGen/static/css/main.10c18e87.css.map",
+    "main.d8124897.js.map": "/QuestionGen/static/js/main.d8124897.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10c18e87.css",
+    "static/js/main.d8124897.js"
+  ]
+}
